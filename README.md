@@ -1,4 +1,4 @@
-#Practical Reinforcement Learning
+# Practical Reinforcement Learning
 This is the code repository for [Practical Reinforcement Learning](https://www.packtpub.com/big-data-and-business-intelligence/practical-reinforcement-learning?utm_source=github&utm_medium=repository&utm_campaign=9781787128729), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Reinforcement learning (RL) is becoming a popular tool for constructing autonomous systems that can improve themselves with experience. We will break the RL framework into its core building blocks, and provide you with details of each element.
@@ -7,7 +7,7 @@ This book aims to strengthen your machine learning skills by acquainting you wit
 
 By the end of this book, you'll know the practical implementation of case studies and current research activities to help you advance further with Reinforcement Learning.
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
@@ -22,7 +22,7 @@ for _ in range(1000):
 This book covers all the practical examples in Python and Java. You need to install Python 2.7 or Python 3.6 in your computer. If you are working on Java, then you have to install Java 8.
 All the other reinforcement-learning-related toolkits or framework installations will be covered in the relevant sections.
 
-##Related Products
+## Related Products
 * [Practical Time Series Analysis](https://www.packtpub.com/big-data-and-business-intelligence/practical-time-series-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788290227)
 
 * [Machine Learning With Go](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go?utm_source=github&utm_medium=repository&utm_campaign=9781785882104)
