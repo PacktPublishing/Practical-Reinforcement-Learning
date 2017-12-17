@@ -29,5 +29,4 @@ All the other reinforcement-learning-related toolkits or framework installations
 
 * [Step-by-Step Machine Learning with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/step-step-machine-learning-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781788622370)
 
-###Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
